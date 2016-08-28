@@ -1,0 +1,9 @@
+{
+	"id": "saurav",
+        "uid": "5051",
+        "gid": "5051",
+        "comment": "devops engineer",
+        "home": "/home/saurav",
+        "shell": "/bin/bash",
+        "password": "123456"
+}
